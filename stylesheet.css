@@ -1,0 +1,21 @@
+body{
+
+}
+#LogoContainer{
+  margin-top:10%;
+  text-align:center;
+}
+
+#FormContainer{
+  margin-top:5%;
+}
+#Form{
+  text-align:center;
+}
+#file{
+  margin-left:6%;
+}
+#SubmitLabel{
+  font-family:Arial;
+  font-size:11px;
+}
