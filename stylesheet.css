@@ -1,13 +1,11 @@
-body{
 
-}
 #LogoContainer{
-  margin-top:10%;
+  margin-top:6%;
   text-align:center;
 }
 
 #FormContainer{
-  margin-top:5%;
+  margin-top:3%;
 }
 #Form{
   text-align:center;
@@ -18,4 +16,10 @@ body{
 #SubmitLabel{
   font-family:Arial;
   font-size:11px;
+}
+#essay{
+  margin-top:3%;
+}
+#name{
+
 }
